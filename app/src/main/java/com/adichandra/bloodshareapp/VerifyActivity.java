@@ -6,17 +6,20 @@ import android.content.Intent;
 import android.os.Bundle;
 import android.view.View;
 
-public class AlmostThereActivity extends AppCompatActivity {
+public class VerifyActivity extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_almost_there);
+        setContentView(R.layout.activity_verify);
         getSupportActionBar().hide();
+
     }
 
-    public void OnClickVerif(View view){
-        Intent intent = new Intent(this,VerifyActivity.class);
+    public void OnClickHome(View view){
+        Intent intent = new Intent(this,HomeActivity.class);
         startActivity(intent);
     }
+
+
 }

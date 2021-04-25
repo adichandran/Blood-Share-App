@@ -9,7 +9,9 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.BloodShareApp">
-        <activity android:name=".AlmostThereActivity"></activity>
+        <activity android:name=".HomeActivity"></activity>
+        <activity android:name=".VerifyActivity" />
+        <activity android:name=".AlmostThereActivity" />
         <activity android:name=".RegisterActivity" />
         <activity android:name=".MainActivity">
             <intent-filter>
