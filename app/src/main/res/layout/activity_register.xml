@@ -188,6 +188,7 @@
             android:layout_height="wrap_content"
             android:layout_marginTop="25dp"
             android:textColor="@color/lightblue"
+            android:onClick="OnClickRegis"
             android:text="@string/register_caps"
             android:background="@drawable/transparent_button2"/>
     </LinearLayout>
