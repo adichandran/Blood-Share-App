@@ -4,7 +4,8 @@ package com.adichandra.bloodshareapp;
  * NIM   : 10118015
  * NAMA  : Adi Chandra Nugraha
  * KELAS : IF1
- * TGL   : 25/04/2021
+ * TGL   : 25/04/
+ * Deskripsi : Membuat action onCLick menuju RegisterActivity
  * */
 
 import androidx.appcompat.app.AppCompatActivity;

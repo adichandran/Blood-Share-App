@@ -5,6 +5,7 @@ package com.adichandra.bloodshareapp;
  * NAMA  : Adi Chandra Nugraha
  * KELAS : IF1
  * TGL   : 25/04/2021
+ * Deskripsi : Membuat action onCLick menuju VerifyActivity
  * */
 
 import androidx.appcompat.app.AppCompatActivity;
