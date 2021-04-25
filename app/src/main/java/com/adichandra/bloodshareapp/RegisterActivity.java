@@ -1,5 +1,12 @@
 package com.adichandra.bloodshareapp;
 
+/*
+ * NIM   : 10118015
+ * NAMA  : Adi Chandra Nugraha
+ * KELAS : IF1
+ * TGL   : 25/04/2021
+ * */
+
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.content.Intent;
